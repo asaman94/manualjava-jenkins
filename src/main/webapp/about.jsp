@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <title>ABOUT</title>
 <h2>This is ABOUT Page</h2>
+<h2>This is Jenkins Page</h2>
 </head>
 <body>
 
